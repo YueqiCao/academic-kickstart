@@ -2,7 +2,7 @@
 title: "Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems"
 date: 2017-01-01
 publishDate: 2020-03-06T13:09:47.162583Z
-authors: ["Yueqi Cao"]
+authors: ["Anda Xiong, Amir Assadi, Yueqi Cao"]
 publication_types: ["0"]
 abstract: ""
 featured: false
