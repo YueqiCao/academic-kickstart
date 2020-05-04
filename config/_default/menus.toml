@@ -23,6 +23,10 @@
   url = "#accomplishments"
   weight = 40
 
+[[main]]
+  name = "CV"
+  url = "static/cvfiles/me.pdf"
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
