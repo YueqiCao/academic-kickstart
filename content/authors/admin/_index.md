@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: School of Mathematics and Statistics
+role: Master Candidate in Mathematics
 
 # Organizations/Affiliations
 organizations:
+- name: School of Mathematics and Statistics
+  url: "http://math.bit.edu.cn/"
 - name: Beijing Institute of Technology
   url: "http://www.bit.edu.cn/"
 
@@ -21,9 +23,9 @@ organizations:
 bio: My research interests include applied topology and geometry.
 
 interests:
-- Topological data analysis
-- Discrete differential geometry
-- Information geometry
+- Geometry and Statistics
+- Topological Data Analysis
+- Applied Differential Geometry
 
 education:
   courses:
@@ -70,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Yueqi Cao is a graduate student of school of mathematics and statistics at Beijing Institute of Technology. His research interests include applied topology and geometry. 
+I'm a master candidate and obtained my B.Sc in mathematics at Beijing Institute of Technology. My advisor is Prof. Huafei Sun. My current research focuses on the construction of the second fundamental form estimator on Euclidean submanifolds, as well as its efficiency and consistency. 
