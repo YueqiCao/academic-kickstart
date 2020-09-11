@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a master candidate and obtained my B.Sc in mathematics at Beijing Institute of Technology. My advisor is [Prof. Huafei Sun](http://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My current research focuses on the construction of the second fundamental form estimator on Euclidean submanifolds. A priori work for surfaces can be found in my [arXiv](https://arxiv.org/abs/1905.10725).
+I'm a master candidate and obtained my B.Sc in mathematics at Beijing Institute of Technology. My advisor is [Prof. Huafei Sun](http://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My current research focuses on the construction of the second fundamental form estimator on Euclidean submanifolds. A recent work can be found in my [arXiv](https://arxiv.org/abs/1905.10725).
 
 I prefer to write [blogs](http://yueqicao.top) to record my progresses.
